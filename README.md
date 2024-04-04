@@ -20,6 +20,6 @@ The following images show the web application's appearance and functionality:
 
 ## The Deployments
 
-The Repo: ()
+The Repo: (https://github.com/NovaLanceBrittany/HW-03-Employee-Tracker)
 
-The Deployment: ()
+The Deployment: (https://novalancebrittany.github.io/HW-03-Employee-Tracker/)
